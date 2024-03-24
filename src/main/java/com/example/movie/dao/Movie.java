@@ -1,4 +1,4 @@
-package com.example.demo.dao;
+package com.example.movie.dao;
 
 import jakarta.xml.bind.annotation.XmlRootElement;
 

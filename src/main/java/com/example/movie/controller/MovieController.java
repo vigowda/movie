@@ -1,12 +1,9 @@
-package com.example.demo.controller;
+package com.example.movie.controller;
 
-import com.example.demo.dao.Movie;
+import com.example.movie.dao.Movie;
 import org.springframework.http.MediaType;
-import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.*;
 
-import java.lang.reflect.Method;
-import java.net.http.HttpRequest;
 import java.util.Date;
 
 @RestController
